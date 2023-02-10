@@ -1,1 +1,1 @@
-Writing a command list specific files
+Creating a magic file
