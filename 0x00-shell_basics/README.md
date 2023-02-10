@@ -1,1 +1,1 @@
-Creating a script thst create directories with a forward slash
+Writing a command list specific files
