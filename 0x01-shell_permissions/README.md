@@ -1,1 +1,3 @@
- creating a file that switches user to betty
+[master a63ce26] Task 3 on shell permissions
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x01-shell_permissions/2-groups
