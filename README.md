@@ -1,1 +1,1 @@
-Task 19. File type: School
+shell basics
