@@ -1,1 +1,1 @@
-Creating a script that deletes all file in the working directly that end with ~
+Creating a script thst create directories with a forward slash
